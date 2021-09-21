@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.WebSite.WebApi", "GreenTube.WebSite.WebApi\GreenTube.WebSite.WebApi.csproj", "{35F183A6-EBA7-4F77-88B3-786278049EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.WebSite.DataModel", "GreenTube.WebSite.DataModel\GreenTube.WebSite.DataModel.csproj", "{ED15039B-05BF-490B-A87F-FF52B250B9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.WebSite.Repositories", "GreenTube.WebSite.Repositories\GreenTube.WebSite.Repositories.csproj", "{6C3B0AD6-D630-45EA-9BB9-F9411AAAF2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.WebSite.Dto", "GreenTube.WebSite.Dto\GreenTube.WebSite.Dto.csproj", "{8882F8F5-0B70-4673-B25E-91BECF94A4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.WebSite.Services", "GreenTube.WebSite.Services\GreenTube.WebSite.Services.csproj", "{935A1598-4316-4905-BA1F-B4C30DF2B91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F183A6-EBA7-4F77-88B3-786278049EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F183A6-EBA7-4F77-88B3-786278049EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F183A6-EBA7-4F77-88B3-786278049EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F183A6-EBA7-4F77-88B3-786278049EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED15039B-05BF-490B-A87F-FF52B250B9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED15039B-05BF-490B-A87F-FF52B250B9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED15039B-05BF-490B-A87F-FF52B250B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED15039B-05BF-490B-A87F-FF52B250B9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3B0AD6-D630-45EA-9BB9-F9411AAAF2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3B0AD6-D630-45EA-9BB9-F9411AAAF2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3B0AD6-D630-45EA-9BB9-F9411AAAF2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3B0AD6-D630-45EA-9BB9-F9411AAAF2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8882F8F5-0B70-4673-B25E-91BECF94A4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8882F8F5-0B70-4673-B25E-91BECF94A4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8882F8F5-0B70-4673-B25E-91BECF94A4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8882F8F5-0B70-4673-B25E-91BECF94A4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935A1598-4316-4905-BA1F-B4C30DF2B91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935A1598-4316-4905-BA1F-B4C30DF2B91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935A1598-4316-4905-BA1F-B4C30DF2B91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935A1598-4316-4905-BA1F-B4C30DF2B91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F2B0A8-B00D-427D-9573-E99486EDB231}
+	EndGlobalSection
+EndGlobal

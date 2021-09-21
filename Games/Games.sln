@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenTube.Games.WebApi", "GreenTube.Games.WebApi\GreenTube.Games.WebApi.csproj", "{2990186B-0612-4932-9B99-56FB53769FB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenTube.Games.DataModel", "GreenTube.Games.DataModel\GreenTube.Games.DataModel.csproj", "{DFD96406-95BA-4DE6-89B4-155F39920D48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenTube.Games.Repositories", "GreenTube.Games.Repositories\GreenTube.Games.Repositories.csproj", "{DF084E2A-C8F3-41A9-A0E7-4FE4602D3B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.Games.Dto", "GreenTube.Games.Dto\GreenTube.Games.Dto.csproj", "{DC3F1448-5681-4FC3-B130-E3B9527024A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.Games.Services", "GreenTube.Games.Services\GreenTube.Games.Services.csproj", "{F1596DFC-A0B2-4A56-B246-378B4EC1A729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.Games.Repositories.Test", "GreenTube.Games.Repositories.Test\GreenTube.Games.Repositories.Test.csproj", "{F5510475-532E-4D44-8F28-446D65CD538A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenTube.Games.Services.Test", "GreenTube.Games.Services.Test\GreenTube.Games.Services.Test.csproj", "{10FA8E49-3CCC-4A75-925B-14E2EB0F1E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2990186B-0612-4932-9B99-56FB53769FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2990186B-0612-4932-9B99-56FB53769FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2990186B-0612-4932-9B99-56FB53769FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2990186B-0612-4932-9B99-56FB53769FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD96406-95BA-4DE6-89B4-155F39920D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD96406-95BA-4DE6-89B4-155F39920D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD96406-95BA-4DE6-89B4-155F39920D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD96406-95BA-4DE6-89B4-155F39920D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF084E2A-C8F3-41A9-A0E7-4FE4602D3B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF084E2A-C8F3-41A9-A0E7-4FE4602D3B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF084E2A-C8F3-41A9-A0E7-4FE4602D3B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF084E2A-C8F3-41A9-A0E7-4FE4602D3B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3F1448-5681-4FC3-B130-E3B9527024A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3F1448-5681-4FC3-B130-E3B9527024A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3F1448-5681-4FC3-B130-E3B9527024A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3F1448-5681-4FC3-B130-E3B9527024A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1596DFC-A0B2-4A56-B246-378B4EC1A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1596DFC-A0B2-4A56-B246-378B4EC1A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1596DFC-A0B2-4A56-B246-378B4EC1A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1596DFC-A0B2-4A56-B246-378B4EC1A729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5510475-532E-4D44-8F28-446D65CD538A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5510475-532E-4D44-8F28-446D65CD538A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5510475-532E-4D44-8F28-446D65CD538A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5510475-532E-4D44-8F28-446D65CD538A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FA8E49-3CCC-4A75-925B-14E2EB0F1E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FA8E49-3CCC-4A75-925B-14E2EB0F1E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FA8E49-3CCC-4A75-925B-14E2EB0F1E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FA8E49-3CCC-4A75-925B-14E2EB0F1E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9858B840-1292-4A28-83A0-19080BA4EC1F}
+	EndGlobalSection
+EndGlobal

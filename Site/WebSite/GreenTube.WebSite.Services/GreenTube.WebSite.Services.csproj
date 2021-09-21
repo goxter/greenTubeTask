@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GreenTube.WebSite.Dto\GreenTube.WebSite.Dto.csproj" />
+    <ProjectReference Include="..\GreenTube.WebSite.Repositories\GreenTube.WebSite.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
